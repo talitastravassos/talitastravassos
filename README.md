@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi my name is Talita S. Travassos. I'm a Brazilian Software Engineer, currently I work as a Frontend Developer at Projuris Software Juridico.
+Hi my name is Talita S. Travassos. I'm a Brazilian Software Engineer, currently I work as a Frontend Developer using ReactJS, Typescript/Javascript, Styled-components, GraphQL and NodeJS.
 
 ## Follow me
 
